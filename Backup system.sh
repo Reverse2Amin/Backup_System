@@ -128,6 +128,7 @@ while true; do
                 echo "4. Nach Datei in Backups suchen"
                 echo "5. Hilfe anzeigen"
                 echo "6. Programm beenden"
+                echo "Für mehr hilfe gehe zu dem Readme: https://github.com/CHRaclette/Backup-system"
                 read -n 1 -s -r -p "Drücken Sie eine beliebige Taste, um zum Hauptmenü zurückzukehren..."
             }
             show_help
